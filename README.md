@@ -38,7 +38,7 @@ etc.
 
 ⚙️ Installation & Setup
 Clone the repository:
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://https://github.com/anjith66/House-Price-Prediction-using-Machine-Learning.git
 Navigate to the project folder:
 cd house-price-prediction
 Install dependencies:
